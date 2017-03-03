@@ -1,0 +1,15 @@
+
+.title {
+        float: left;
+        text-shadow:2px 1px gray;
+        text-decoration:underline;
+    }
+#color{
+    color: blue;
+}
+h1{
+    text-decoration: underline;
+}
+.main-container{
+    text-align: center;
+}

@@ -1,0 +1,25 @@
+.title {
+        float: left;
+        text-shadow:2px 1px gray;
+        text-decoration:underline;
+    }
+
+#icon img{
+    width:30px;
+}
+
+.container{
+    width:80%;
+    margin: 0 auto;
+}
+
+.cform{
+    width:50%;
+}
+
+.cform input,textarea{
+    width: 100%;
+}
+.add{
+    text-decoration: underline;
+}
