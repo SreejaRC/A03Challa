@@ -4,6 +4,11 @@ img{
     border:0;
     height:380px;
     }
+    .img1{
+        width:55px;
+    border:0;
+    height:55px;
+    }
 .title {
         float: left;
         text-shadow:2px 1px gray;

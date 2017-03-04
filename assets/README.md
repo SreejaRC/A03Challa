@@ -2,19 +2,18 @@
 # Concepts used
 -HTML
 -CSS
--JAVASCRIPT
--JQUERRY
--Node.js
-
-# Getting Started
-Right click on A01Challa folder and select "Open with Code"
-# Uses
+-JavaScript
+-JQuerry
+-Node.js(express)
+# Steps involved
 -HTML is used for content in web pages.
 -CSS is used for styling the web pages.
 -JAVA SSCRIPT is used for scripting.
 -JQUERRY is used to modify java script code.
 -BOOTSTRAP frame work is used for responsive design of the web page. 
 -for loop is used to generate even and odd numbers for given inputs.
+-Guest book page is added for guest entries.
+-nodemon is used to run the application on server.
 # References
 -http://www.w3schools.com/html/
 -http://www.w3schools.com/css/default.asp
